@@ -15,20 +15,22 @@ const Layout = ({ location, title, children }) => {
   } else {
     header = (
       <Link className="header-link-home" to="/">
-        {title}
+        ← Return Home
       </Link>
     )
   }
 
   return (
     <div className="global-wrapper" data-is-root-path={isRootPath}>
-      <header className="global-header">{header}</header>
+      <header className="global-header" style={{marginBottom: "2rem"}}>{header}</header>
       <main>{children}</main>
+      {/* 
       <footer>
         © {new Date().getFullYear()}, Built with
         {` `}
         <a href="https://www.gatsbyjs.com">Gatsby</a>
       </footer>
+      */}
     </div>
   )
 }

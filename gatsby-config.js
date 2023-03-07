@@ -9,13 +9,13 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Bian's Thoughts on Tech, Finance, Music & Cities`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Bian Lee`,
+      summary: `lives in Sacramento, California.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://bianlee.me`,
     social: {
       twitter: `kylemathews`,
     },

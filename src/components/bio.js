@@ -31,7 +31,7 @@ const Bio = () => {
   const social = data.site.siteMetadata?.social
 
   return (
-    <></>
+    <>I am a first-year Computer Science and Engineering (CSE) student with interests in </>
     
   )
 }

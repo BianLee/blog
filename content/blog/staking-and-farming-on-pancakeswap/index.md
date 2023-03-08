@@ -1,10 +1,10 @@
 ---
-title: Staking & Farming on Pancakeswap
-date: "2022-03-07"
+title: 🐰 Staking & Farming on Pancakeswap
+date: "2023-03-07"
 description: "40% APR go brrrr. CAKE makes our world go round!"
 ---
 
-Pancakeswap (pancakeswap.finance) is one of my favorite DeFi products and I currently have over $1K USD worth of tokens staked on this DEX, mostly on the ZBC-CAKE farm. In this post, I talk about what my portfolio looks like and how I use this product to manage my crypto assets. Treat it as an unofficial guide made by a passionate user.
+Pancakeswap (pancakeswap.finance) is one of my favorite DeFi products at the moment and I'm heavily invested in the project, with over $1K USD worth of tokens staked on this DEX. In this post, I talk about what my portfolio looks like and how I use this product to manage my crypto assets. Treat it as an unofficial guide made by a passionate user.
 
 Like many others, I discovered Pancakeswap after Uniswap's rising popularity. I first learned about the concept of Automated Market Maker (AMM) in a podcast with Hayden Adams (Uniswap founder), leading me to Uniswap.org. For a while I kept hearing buzz words like <i>impermanent loss</i>, <i>liquidity provider</i>, <i>LP staking</i> and other confusing terms. I understood none of it then, but it did make me see that there was a whole world of finance I was missing out on. 
 

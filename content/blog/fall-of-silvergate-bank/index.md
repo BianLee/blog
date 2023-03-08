@@ -1,8 +1,9 @@
 ---
 title: "[Vestr.io] Fall of Silvergate Bank"
-date: "2022-03-04"
+date: "2023-03-04"
 description: " "
 ---
+<i>This article was originally published in Vestr.io's Newsletter. Subscribe <a href="https://www.vestr.io/" target="_blank">here</a></i>
 
 <b>Silvergate Falls</b>: On March 3, BTC lost more than $22 billion in its market capitalization after dropping more than 5% ($1200) in under an hour. This rapid price fall is heavily tied to Silvergate Bank’s delayed filing of a 10-K document, a report required by the SEC that reflects a firm’s financial performance. Silvergate announced that the company would need additional two weeks to complete paperwork for 2022’s financial reports, which raised many doubts over their profitability and future. The bank further noted that they anticipate losses in the coming months, writing that they are “currently in the process of reevaluating its businesses and strategies in light of the business and regulatory challenges it currently faces.” This news sent their stock ($SI) down 60%. On March 4, Silvergate suspended their crypto payment network, Silvergate Exchange Network (SEN), which allows instant transfers of funds in and out of exchanges without waiting days for transactions to settle. Silvergate is in its absolute worst position, at the brink of bankruptcy, and $SI has become the most shorted stock in the US.
 

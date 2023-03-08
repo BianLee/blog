@@ -9,7 +9,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Bian's Thoughts on Tech, Finance, Music & Cities`,
+    title: `Bian's Thoughts & Analysis on Web3, Finance, Music and Cities`,
     author: {
       name: `Bian Lee`,
       summary: `lives in Sacramento, California.`,

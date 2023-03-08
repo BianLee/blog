@@ -1,5 +1,5 @@
 ---
-title: "📍 A Day Trip to Auburn, California"
+title: "📍 A Day Trip To Auburn, California"
 date: "2023-02-20"
 description: " "
 ---

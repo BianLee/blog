@@ -1,8 +1,10 @@
 ---
 title: 🐰 Staking & Farming on Pancakeswap
 date: "2023-03-07"
-description: "40% APR go brrrr. CAKE makes our world go round!"
+description: " "
 ---
+
+<i>40% APR go brrrr. CAKE makes our world go round!</i>
 
 Pancakeswap (pancakeswap.finance) is one of my favorite DeFi products at the moment and I'm heavily invested in the project, with over $1K USD worth of tokens staked on this DEX. In this post, I talk about what my portfolio looks like and how I use this product to manage my crypto assets. Treat it as an unofficial guide made by a passionate user.
 

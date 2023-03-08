@@ -22,7 +22,7 @@ const Layout = ({ location, title, children }) => {
 
   return (
     <div className="global-wrapper" data-is-root-path={isRootPath}>
-      <header className="global-header" style={{marginBottom: "2rem"}}>{header}</header>
+      <header className="global-header" style={{marginBottom: "1rem"}}>{header}</header>
       <main>{children}</main>
       {/* 
       <footer>

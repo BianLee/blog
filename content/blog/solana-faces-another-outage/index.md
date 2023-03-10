@@ -1,5 +1,5 @@
 ---
-title: "[Vestr.io] Solana Faces Another Network Outage"
+title: "[Vestr] Solana Faces Another Network Outage"
 date: "2023-02-27"
 description: " "
 ---

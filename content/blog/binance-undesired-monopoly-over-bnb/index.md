@@ -1,5 +1,5 @@
 ---
-title: "[Vestr.io] Binance’s Undesired Monopoly Over Its BNB Coin"
+title: "[Vestr] Binance’s Undesired Monopoly Over Its BNB Coin"
 date: "2023-01-01"
 description: " "
 ---

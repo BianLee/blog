@@ -1,5 +1,5 @@
 ---
-title: "[Vestr.io] Ethereum's Upcoming Shanghai Fork"
+title: "[Vestr] Ethereum's Upcoming Shanghai Fork"
 date: "2023-01-08"
 description: " "
 ---

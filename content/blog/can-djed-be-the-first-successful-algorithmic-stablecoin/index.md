@@ -1,5 +1,5 @@
 ---
-title: "[Vestr.io] Can DJED Be The First Successful Algorithmic Stablecoin?"
+title: "[Vestr] Can DJED Be The First Successful Algorithmic Stablecoin?"
 date: "2023-02-06"
 description: " "
 ---

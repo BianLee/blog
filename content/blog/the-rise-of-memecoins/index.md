@@ -1,5 +1,5 @@
 ---
-title: "[Vestr.io] The Rise of Memecoins?"
+title: "[Vestr] The Rise of Memecoins?"
 date: "2023-01-09"
 description: " "
 ---

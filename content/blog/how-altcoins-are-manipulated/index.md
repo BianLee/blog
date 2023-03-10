@@ -1,5 +1,5 @@
 ---
-title: "[Vestr.io] How Altcoins Are Manipulated By Trading Firms"
+title: "[Vestr] How Altcoins Are Manipulated By Trading Firms"
 date: "2023-02-12"
 description: " "
 ---

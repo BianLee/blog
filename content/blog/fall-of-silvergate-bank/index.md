@@ -1,5 +1,5 @@
 ---
-title: "[Vestr.io] Fall of Silvergate Bank"
+title: "[Vestr] Fall of Silvergate Bank"
 date: "2023-03-04"
 description: " "
 ---

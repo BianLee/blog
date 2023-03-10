@@ -1,5 +1,5 @@
 ---
-title: "[Vestr.io] After Stagnant Efforts in Congress, The White House Gets Involved"
+title: "[Vestr] After Stagnant Efforts in Congress, The White House Gets Involved"
 date: "2023-01-30"
 description: " "
 ---

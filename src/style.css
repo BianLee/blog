@@ -110,7 +110,7 @@ h6 {
   margin-bottom: var(--spacing-6);
   line-height: var(--lineHeight-normal);
   letter-spacing: -0.025em;
-  font-weight: 600;
+  font-size: 1.55rem;
 }
 
 h2,
@@ -122,11 +122,12 @@ h6 {
   font-weight: 500;
   color: var(--color-heading);
   
+  
 }
 
 h1 {
-  font-size: var(--fontSize-4);
-  color: var(--color-heading-black);
+  font-size: 1.68rem;
+
 }
 
 h2 {

@@ -18,7 +18,7 @@ const BlogPostTemplate = ({
         itemScope
         itemType="http://schema.org/Article"
       >
-        <header>
+        <header style={{marginBottom: "-1rem"}}>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
           <p>{post.frontmatter.date}</p>
         </header>
@@ -27,9 +27,7 @@ const BlogPostTemplate = ({
           itemProp="articleBody"
         />
         <hr />
-        <footer>
-          <Bio />
-        </footer>
+     
       </article>
       <nav className="blog-post-nav">
         <ul
@@ -39,18 +37,19 @@ const BlogPostTemplate = ({
             justifyContent: `space-between`,
             listStyle: `none`,
             padding: 0,
+            marginTop: "1.5rem"
           }}
         >
           <li>
             {previous && (
-              <Link to={previous.fields.slug} rel="prev">
+              <Link to={previous.fields.slug} rel="prev" style={{textDecoration: "none"}}>
                 ← {previous.frontmatter.title}
               </Link>
             )}
           </li>
           <li>
             {next && (
-              <Link to={next.fields.slug} rel="next">
+              <Link to={next.fields.slug} rel="next" style={{textDecoration: "none"}}>
                 {next.frontmatter.title} →
               </Link>
             )}
